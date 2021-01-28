@@ -8,4 +8,4 @@ This version of the game was all coded in Python and, as I am new to Python lang
 Link to the video: https://youtu.be/QFvqStqPCRU 
 
 
-His GitHub repository: github.com/clear-code-projects/Snake
+His GitHub repository: https://github.com/clear-code-projects/Snake
