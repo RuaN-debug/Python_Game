@@ -13,6 +13,11 @@ cell_number = 20
 screen = pygame.display.set_mode((cell_size * cell_number, cell_size * cell_number))
 background = pygame.image.load('Images/background.png').convert_alpha()
 
+# Title and Icon
+pygame.display.set_caption("Python_Game")
+icon = pygame.image.load('Images/apple.png').convert_alpha()
+pygame.display.set_icon(icon)
+
 # Framerate cap
 clock = pygame.time.Clock()
 
