@@ -9,3 +9,29 @@ Link to the video: https://youtu.be/QFvqStqPCRU
 
 
 His GitHub repository: https://github.com/clear-code-projects/Snake
+
+# How to run the game
+
+First of all, you need to have python installed in your pc, you can find the latest version here: https://www.python.org/downloads/
+
+In order to run the game you need to download this repository by clicking on Code and download ZIP:
+
+![image](https://user-images.githubusercontent.com/54671133/129487925-ea40e0ab-a1a8-4cb4-aed0-ff30a37a4850.png)
+
+Or clone it with:
+```sh
+git clone git@github.com:RuaN-debug/Python_Game.git
+```
+
+Then all you have to do is install the pygame:
+```sh
+pip install -r requirements
+```
+And run the Python_Game.py file:
+```sh
+python Python_Game.py
+```
+
+# Game running
+
+![image](https://user-images.githubusercontent.com/54671133/129487830-a3901d4b-416d-4549-911a-9868d3c12f1f.png)
